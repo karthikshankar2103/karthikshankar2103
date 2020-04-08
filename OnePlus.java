@@ -18,4 +18,9 @@ public class OnePlus {
 	}
 	
 	
+	public void version_4() {
+
+		System.out.println("version 4");
+	}
+	
 }
