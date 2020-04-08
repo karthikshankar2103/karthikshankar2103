@@ -6,6 +6,10 @@ public class OnePlus {
 
 		System.out.println("version 1");
 	}
+	public void version_2() {
+
+		System.out.println("version 2");
+	}
 	
 	
 	
