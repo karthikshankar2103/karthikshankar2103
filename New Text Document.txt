@@ -4,6 +4,6 @@ public class OnePlus {
 
 	public void version_1() {
 
-		System.out.println("version 1");
+		System.out.print("version 1");
 	}
 	
