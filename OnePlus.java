@@ -1,6 +1,7 @@
 package git;
 
-public class OnePlus {
+
+ class OnePlus {
 
 	public void version_1() {
 
